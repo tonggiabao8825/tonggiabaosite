@@ -1,0 +1,34 @@
+<span id="u">user@tonggiabao.site</span>:<span id="b">~</span><span id="c">$</span> ssh root@TốngGiaBảo -p 22
+Password: ********
+Last login: No data found !
+User login : @root
+<br/>
+<span id="a">root@tonggiabao</span>:<span id="b">~</span><span id="c">#</span> ls
+about_me.txt
+<span id="a">root@tonggiabao</span>:<span id="b">~</span><span id="c">#</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about_me.txt<br/>
+Here is my site , where i can pr for myself and show you about me !
+
+Ấn vào đường dẫn để khám phá sâu hơn về tôi =><a href="/index2.html">Detail Infomation About Me</a><=
+
+You can CLICK me now =><a href="/index2.html">Detail Infomation About Me</a><=<br>
+My Story: 
+
+No data found at th moment , try again !
+
+You can checkout my infomations on:
+<a href="https://www.facebook.com/TongGiaBao.User/">Facebook</a>
+<a href="https://www.tiktok.com/@giabao.media">TikTok</a>
+<a href="https://m.me/TongGiaBao,User">Messenger</a>
+<a href="https://zalo.me/0528892074">Zalo</a>
+<a href="https://tonggiabao.ga">My another website</a>
+<a>Mail:tonggiabao.media@gmail.com </a>
+I publish my writeups on my <a href="https://facebook.com/TongGiaBao.User">My Account Using</a>, you can also checkout the projects I'm working on over there.
+
+
+<span id="a">tonggiabao.media@gmail.com </span>:<span id="b">~</span><span id="c">#</span> exit
+<p>Connection to @root is disable , try again.</p>
+<span id="u">tonggiabao.media@gmail.com</span>:<span id="b">~</span><span id="c">$</span> shutdown
+Goodbye!
+
+              &#169; <a href='#'></a> Code by TongGiabao
+         
